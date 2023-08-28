@@ -7,6 +7,7 @@
 - `ssh-add ~/.ssh/id_ed25519`
 
 ## config
+- `vi ~/.ssh/config`
 ```shell
 #work account
 Host github.com-work
